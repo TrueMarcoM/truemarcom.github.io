@@ -1,3 +1,7 @@
+# Hello, this is part of an assignment for a course I'm taking. Please visit other repo such as GroupProject2.
+
+
+
 # Initial Findings
 ### Elements
 I notice numerous elements such as 
